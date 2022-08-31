@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false //Para compilar datos sin un tipo especifico
+    }
+}
